@@ -77,7 +77,15 @@ Autor do artigo *“Aplicação da Ciência de Dados para Classificação de Art
 ---
 
 ## 📜 Licença
-Este repositório é distribuído sob a licença **MIT License** — use, estude e compartilhe livremente.
+
+Este repositório está licenciado sob a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+Isso significa que o material pode ser **utilizado para fins educacionais e pessoais**, desde que **seja dado o devido crédito ao autor**, **sem modificações** e **sem uso comercial**.
+
+🔗 Leia mais sobre a licença em: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt)
+
+© 2025 — **Guilherme Fábio Vieira**. Todos os direitos reservados.
+
 
 ---
 
