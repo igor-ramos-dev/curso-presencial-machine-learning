@@ -79,7 +79,7 @@ Engenheiro de Produção e Pós-Graduado em IA e Aprendizado de Máquina.
 Autor do artigo *“Aplicação da Ciência de Dados para Classificação de Artigos Científicos”* (ENEGEP).
 
 📧 **Email:** guilhermevieira29@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/guilhermefabio](https://www.linkedin.com/in/guilhermefabio)  
+🔗 **LinkedIn:** [linkedin.com/guilherme-fabio-vieira/](https://www.linkedin.com/in/guilherme-fabio-vieira/)  
 🐙 **GitHub:** [github.com/guilhermefabio](https://github.com/guilhermefabio)
 
 ---
