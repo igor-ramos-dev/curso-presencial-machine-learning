@@ -4,6 +4,14 @@
 Repositório oficial do curso **Introdução ao Machine Learning com Python**, ministrado por **Guilherme Fábio Vieira** na **UNIVALI – Universidade do Vale do Itajaí**.  
 Este material apresenta uma jornada prática através de notebooks do Google Colab, cobrindo os principais algoritmos e técnicas usadas no mercado.
 
+📅 Datas: 18 e 25 de outubro de 2025  
+🏫 Local: UNIVALI – Itajaí  
+💻 Ferramentas: Google Colab, Pandas, Scikit-Learn, Matplotlib, NumPy  
+
+> Os notebooks estão comentados e prontos para execução, mas o **entendimento completo vem das aulas, da prática e das discussões realizadas ao longo do curso.**
+
+👉 **Clonem em suas máquinas e divirtam-se!**
+
 ---
 
 ## 📘 Estrutura do Repositório
