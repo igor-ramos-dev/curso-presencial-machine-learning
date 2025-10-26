@@ -1,100 +1,97 @@
-# 🧠 Curso Machine Learning com Python  
-**Aplicações Práticas no Ambiente Corporativo**
+# 🧠 Introdução ao Machine Learning com Python — Estudos Pessoais  
 
-Repositório oficial do curso **Introdução ao Machine Learning com Python**, ministrado por **Guilherme Fábio Vieira** na **UNIVALI – Universidade do Vale do Itajaí**.  
-Este material apresenta uma jornada prática através de notebooks do Google Colab, cobrindo os principais algoritmos e técnicas usadas no mercado.
-
-📅 Datas: 18 e 25 de outubro de 2025  
-🏫 Local: UNIVALI – Itajaí  
-💻 Ferramentas: Google Colab, Pandas, Scikit-Learn, Matplotlib, NumPy  
-
-> Os notebooks estão comentados e prontos para execução, mas o **entendimento completo vem das aulas, da prática e das discussões realizadas ao longo do curso.**
-
-👉 **Clonem em suas máquinas e divirtam-se!**
+📚 **Curso:** Introdução ao Machine Learning com Python  
+🏫 **Instituição:** UNIVALI – Universidade do Vale do Itajaí  
+👨‍🏫 **Professor:** Guilherme Fábio Vieira  
+📅 **Datas:** 18 e 25 de outubro de 2025  
+🕐 **Carga horária:** 16 horas presenciais (8h às 17h30 em ambos os dias) 
+📍 **Local:** Itajaí – SC  
 
 ---
 
-## 📘 Estrutura do Repositório
+## 💡 Sobre este repositório
+
+Este repositório registra meus estudos e práticas em **Machine Learning com Python**, realizados durante o curso ministrado por **Guilherme Fábio Vieira** na **UNIVALI**.
+
+Os notebooks exploram desde os fundamentos de regressão e classificação até técnicas mais avançadas de ensemble learning e clustering — sempre com foco em **aplicações corporativas** e **interpretação de resultados de negócio**.
+
+> 🔸 Material original de Guilherme Fábio Vieira.  
+> 🔸 Licenciado sob **Creative Commons BY-NC-ND 4.0** (uso educacional e não comercial).  
+> 🔗 [github.com/guilhermefabio](https://github.com/guilhermefabio)
+
+---
+
+## 🎯 Meus objetivos com este estudo
+
+- Ter um primeiro contato com os **fundamentos de Machine Learning**
+- Entender o **ciclo de vida completo** de um modelo de IA  
+- Praticar a **implementação e avaliação de modelos** com Scikit-Learn  
+- Desenvolver a **interpretação de métricas e insights de negócio**  
+- Criar uma base sólida para estudos futuros em **Data Science e IA aplicada**
+
+---
+
+## 💻 Ferramentas e Bibliotecas Utilizadas
+
+| Categoria | Tecnologias |
+|------------|-------------|
+| Linguagem | Python 3.x |
+| Data Science | Pandas, NumPy |
+| Visualização | Matplotlib, Seaborn |
+| Machine Learning | Scikit-Learn |
+| Ambiente | Google Colab |
+
+---
+
+## 📘 Exercícios e Aplicações
 
 | Arquivo | Descrição |
 |----------|------------|
-| **Exercicio1_Iris_simples.ipynb** | Introdução ao Machine Learning e classificação básica com o dataset *Iris*. |
-| **Exercicio2_regressao_simples_multipla.ipynb** | Regressão linear simples e múltipla com *Pandas* e *Scikit-Learn*. |
-| **Exercicio3_Regressao_Logistica_Olist.ipynb** | Regressão logística e classificação binária usando dados reais da Olist. |
-| **Exercicio4_arvore_decisao_analista_financeiro.ipynb** | Árvore de decisão aplicada à seleção de analistas financeiros. |
-| **Exercicio5_random_forest_selecao_candidatos.ipynb** | Ensemble Learning com *Random Forest* aplicado à seleção de candidatos. |
-| **Exercicio6_gradient_boosting_selecao_candidatos.ipynb** | Modelos de *Gradient Boosting* e análise de desempenho. |
-| **Exercicio7_kmeans_exercicio.ipynb** | Agrupamento de clientes com *K-Means* e análise de clusters. |
+| `Exercicio1_Iris_simples.ipynb` | Classificação básica com o dataset **Iris** |
+| `Exercicio2_regressao_simples_multipla.ipynb` | Regressão linear simples e múltipla |
+| `Exercicio3_Regressao_Logistica_Olist.ipynb` | Classificação binária com dados reais da **Olist** |
+| `Exercicio4_arvore_decisao_analista_financeiro.ipynb` | Seleção de analistas financeiros com árvore de decisão |
+| `Exercicio5_random_forest_selecao_candidatos.ipynb` | Ensemble Learning com **Random Forest** |
+| `Exercicio6_gradient_boosting_selecao_candidatos.ipynb` | Modelos de **Gradient Boosting** e análise comparativa |
+| `Exercicio7_kmeans_exercicio.ipynb` | Agrupamento de clientes com **K-Means** |
 
 ---
 
-## 📂 Datasets Incluídos
+## 🧩 Datasets Utilizados
 
 | Dataset | Descrição |
 |----------|------------|
-| **candidatos_financeiro.csv** | Dados simulados de candidatos para processos seletivos. |
-| **dataset_corporativo_ml_1000.csv** | Base genérica de clientes e indicadores corporativos. |
-| **hamburgueria.csv** | Dados de vendas para prática de regressão e previsão de faturamento. |
-| **olist_reviews_prepared.csv** | Dados pré-processados de avaliações da Olist para classificação de sentimento. |
+| `candidatos_financeiro.csv` | Dados simulados de candidatos para processos seletivos |
+| `dataset_corporativo_ml_1000.csv` | Base de clientes e indicadores corporativos |
+| `hamburgueria.csv` | Dados de vendas para regressão e previsão de faturamento |
+| `olist_reviews_prepared.csv` | Avaliações da **Olist** para classificação de sentimento |
 
 ---
 
-## 🎯 Objetivos do Curso
+## 🧠 Conteúdos Abordados
 
-- Entender os **conceitos fundamentais** de Machine Learning  
-- Construir e avaliar **modelos preditivos** em Python  
-- Aplicar técnicas de **classificação, regressão e agrupamento**  
-- Compreender o **ciclo de vida de um modelo de IA**  
-- Traduzir resultados técnicos em **insights de negócio**
-
----
-
-## 🧩 Tecnologias e Bibliotecas
-
-- **Python 3.x**
-- **Pandas** – manipulação de dados  
-- **NumPy** – cálculos numéricos  
-- **Matplotlib / Seaborn** – visualização de dados  
-- **Scikit-Learn** – construção e avaliação de modelos  
-- **Google Colab** – ambiente de execução  
+- Introdução ao Machine Learning  
+- Regressão Linear (Simples e Múltipla)  
+- Regressão Logística e Classificação Binária  
+- Árvores de Decisão  
+- Random Forest e Gradient Boosting  
+- Agrupamento com K-Means  
+- Projeto Final — Pipeline completo: do pré-processamento à decisão  
 
 ---
 
-## 🧠 Conteúdo Programático (Resumo)
+## ⚖️ Licença e Créditos
 
-1. Introdução ao Machine Learning  
-2. Regressão Linear (Simples e Múltipla)  
-3. Regressão Logística e Classificação Binária  
-4. Árvores de Decisão  
-5. Random Forest e Gradient Boosting  
-6. Clustering com K-Means  
-7. Projeto Final — Pipeline completo do pré-processamento à decisão  
+Este repositório é uma **adaptação pessoal de estudo** do material original criado por  
+**Guilherme Fábio Vieira** — sob a licença **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt)**.
 
----
-
-## 👨‍🏫 Sobre o Instrutor
-**Guilherme Fábio Vieira**  
-Consultor em Automação e Inteligência Artificial.  
-Engenheiro de Produção e Pós-Graduado em IA e Aprendizado de Máquina.  
-Autor do artigo *“Aplicação da Ciência de Dados para Classificação de Artigos Científicos”* (ENEGEP).
-
-📧 **Email:** guilhermevieira29@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/guilherme-fabio-vieira/](https://www.linkedin.com/in/guilherme-fabio-vieira/)  
-🐙 **GitHub:** [github.com/guilhermefabio](https://github.com/guilhermefabio)
+> ✅ Uso permitido para fins educacionais  
+> 🚫 Sem modificações no conteúdo original  
+> 💬 Crédito obrigatório ao autor  
 
 ---
 
-## 📜 Licença
+## 💬 Citação
 
-Este repositório está licenciado sob a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
-
-Isso significa que o material pode ser **utilizado para fins educacionais e pessoais**, desde que **seja dado o devido crédito ao autor**, **sem modificações** e **sem uso comercial**.
-
-🔗 Leia mais sobre a licença em: [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt)
-
-© 2025 — **Guilherme Fábio Vieira**. Todos os direitos reservados.
-
-
----
-
-> 💡 *“Aprender Machine Learning é entender como transformar dados em decisões.”*
+> “Aprender Machine Learning é entender como transformar dados em decisões.”  
+> — *Guilherme Fábio Vieira*
