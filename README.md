@@ -4,7 +4,7 @@
 🏫 **Instituição:** UNIVALI – Universidade do Vale do Itajaí  
 👨‍🏫 **Professor:** Guilherme Fábio Vieira  
 📅 **Datas:** 18 e 25 de outubro de 2025  
-🕐 **Carga horária:** 16 horas presenciais
+🕐 **Carga horária:** 16 horas presenciais  
 📍 **Local:** Itajaí – SC  
 
 ---
@@ -21,15 +21,15 @@ Os notebooks exploram desde os fundamentos de regressão e classificação até 
 
 ---
 
-👨‍🏫 Sobre o Instrutor
-Guilherme Fábio Vieira
-Consultor em Automação e Inteligência Artificial.
-Engenheiro de Produção e Pós-Graduado em IA e Aprendizado de Máquina.
-Autor do artigo “Aplicação da Ciência de Dados para Classificação de Artigos Científicos” (ENEGEP).
+## 👨‍🏫 Sobre o instrutor:
+Guilherme Fábio Vieira  
+Consultor em Automação e Inteligência Artificial.  
+Engenheiro de Produção e Pós-Graduado em IA e Aprendizado de Máquina.  
+Autor do artigo “Aplicação da Ciência de Dados para Classificação de Artigos Científicos” (ENEGEP).  
 
-📧 Email: guilhermevieira29@gmail.com
-🔗 LinkedIn: linkedin.com/guilherme-fabio-vieira/
-🐙 GitHub: github.com/guilhermefabio
+📧 Email: guilhermevieira29@gmail.com  
+🔗 LinkedIn: linkedin.com/guilherme-fabio-vieira/  
+🐙 GitHub: github.com/guilhermefabio  
 
 ---
 
